@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi ✨ 
+
+- 🏠 I’m currently living in Virginia, United States.
+
+- 🔭 I’m currently working on Full Stack Web Development with Spring and React.
+
+- 🌱 I’m currently learning Vue JS.
 
 <!--
 **barisbahadir/barisbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
