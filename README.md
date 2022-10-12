@@ -1,6 +1,6 @@
 ### Hi ✨ 
 
-- 🏠 I’m currently live in Salisbuyry, Maryland, United States.
+- 🏠 I’m currently live in Salisbury, Maryland, United States.
 
 - 🔭 I’m currently working on Full Stack Web Development with Spring and React.
 
