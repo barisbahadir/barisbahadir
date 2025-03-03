@@ -1,10 +1,8 @@
 ### Hi ✨ 
 
-- 🏠 I’m currently live in Salisbury, Maryland, United States.
+- 🏠 I’m currently live in Istanbul, Turkey.
 
-- 🔭 I’m currently working on Full Stack Web Development with Spring and React.
-
-- 🌱 I’m currently learning Vue JS.
+- 🔭 I’m currently working on Full Stack Web Development with Spring Boot 3 and React 18.
 
 <!--
 **barisbahadir/barisbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
